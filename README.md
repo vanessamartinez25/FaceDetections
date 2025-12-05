@@ -1,4 +1,5 @@
 # FaceDetect
+# Este es un comentario cualquiera
 
 This is a module for face detection with convolutional neural networks (CNNs). It uses a small CNN as a binary classifier to distinguish between faces and non-faces. A simple sliding window (with multiple windows of varying size) is used to locaize the faces in the image.
 
